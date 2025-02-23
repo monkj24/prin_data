@@ -15,5 +15,7 @@ by Joanna Mnich
 
 - Python
 - Git
+- Jupiter Notebook
+- VsCode
 
 
